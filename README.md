@@ -37,9 +37,9 @@ The strategy is benchmarked against **SPY (S&P 500 ETF)** for comparison.
 
 | Metric              | Momentum Strategy | SPY (Benchmark) |
 |---------------------|------------------:|----------------:|
-| Annualized Return   |        ✅ Higher   |     ❌ Lower     |
+| Annualized Return   |        Higher   |     Lower     |
 | Volatility          |        Moderate    |     Lower       |
-| Sharpe Ratio        |        ✅ > 1.0    |     ❌ < 1.0     |
+| Sharpe Ratio        |        > 1.0    |     < 1.0     |
 | Max Drawdown        |        Higher      |     Lower       |
 
 > ⚠️ This backtest does not include transaction costs or slippage.
@@ -77,11 +77,12 @@ The strategy is benchmarked against **SPY (S&P 500 ETF)** for comparison.
 **Klarence Labrague**  
 🧑‍💻 Computer Science Graduate | Data Analyst | Aspiring Quant  
 📫 GitHub: [KlarenceKPIs](https://github.com/KlarenceKPIs)
+
 🔗 LinkedIn: [Klarence Labrague](https://www.linkedin.com/in/klarencelabrague/)]
 
 ---
 
-## 📜 Disclaimer
+## Disclaimer
 
 This project is for educational purposes only. It is not financial advice. Historical performance does not guarantee future results.
 
