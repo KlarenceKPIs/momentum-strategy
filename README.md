@@ -15,17 +15,19 @@ This project implements a **momentum investing strategy** using historical stock
 ---
 
 ## 📁 Project Structure
-momentum-strategy/ 
-├── data/ # Price data & momentum scores (.pkl files) 
+## 📁 Project Structure
 
-├── notebooks/ # Google Colab notebooks 
+All files are located inside the `momentum-strategy/` folder:
 
-├── results/ # Backtest results, charts, CSVs 
+```text
+momentum-strategy/
+├── data/             → Price data & momentum scores (.pkl files)
+├── notebooks/        → Google Colab notebooks (step-by-step)
+├── results/          → Backtest results, charts, CSV files
+├── powerbi/          → Power BI dashboard files (optional)
+├── requirements.txt  → Python package dependencies
 
-├── powerbi/ # Optional Power BI dashboard files 
-
-└── requirements.txt 
-README.md # Project overview and instructions
+📄 The README.md is in the root of this repository.
 
 ---
 
