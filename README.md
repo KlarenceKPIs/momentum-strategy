@@ -10,9 +10,15 @@ This project explores a simple momentum investing strategy on the S&P 500 using 
 
 ## 📁 Project Structure
 momentum-strategy/
+
 ├── data/ # Raw price & momentum data
+
 ├── notebooks/ # Colab notebooks
+
 ├── results/ # Charts & CSVs
+
 ├── powerbi/ # Dashboards (optional)
+
 ├── README.md
+
 └── requirements.txt
