@@ -15,7 +15,13 @@ This project implements a **momentum investing strategy** using historical stock
 ---
 
 ## 📁 Project Structure
-
+momentum-strategy/
+├── data/ # Price data & momentum scores (.pkl files)
+├── notebooks/ # Google Colab notebooks
+├── results/ # Backtest results, charts, CSVs
+├── powerbi/ # Optional Power BI dashboard files
+└── requirements.txt
+README.md # Project overview and instructions
 
 ---
 
