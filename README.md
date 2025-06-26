@@ -48,7 +48,7 @@ The strategy is benchmarked against **SPY (S&P 500 ETF)** for comparison.
 
 ## 📈 Sample Output
 
-![Cumulative Returns](results/momentum_vs_spy_chart.png)  
+![Cumulative Returns](momentum-strategy/results/momentum_vs_spy_chart.png)  
 *Momentum strategy vs benchmark (SPY), 2010–2024*
 
 ---
