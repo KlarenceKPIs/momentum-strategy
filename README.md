@@ -15,7 +15,6 @@ This project implements a **momentum investing strategy** using historical stock
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 All files are located inside the `momentum-strategy/` folder:
 
