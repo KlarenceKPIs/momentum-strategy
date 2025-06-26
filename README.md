@@ -20,11 +20,17 @@ This project implements a **momentum investing strategy** using historical stock
 All files are located inside the `momentum-strategy/` folder:
 
 momentum-strategy/
+
 ├── data/             → Price data & momentum scores (.pkl files)
+
 ├── notebooks/        → Google Colab notebooks (step-by-step)
+
 ├── results/          → Backtest results, charts, CSV files
+
 ├── powerbi/          → Power BI dashboard files (optional)
+
 ├── requirements.txt  → Python package dependencies
+
 
 📄 The README.md is in the root of this repository.
 
