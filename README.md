@@ -68,7 +68,7 @@ The strategy is benchmarked against **SPY (S&P 500 ETF)** for comparison.
 - `01_download_prices.ipynb` – Get S&P 500 data from Yahoo Finance  
 - `02_calculate_momentum.ipynb` – Compute momentum factor  
 - `03_backtest_strategy.ipynb` – Simulate monthly portfolio  
-- `04_visualize_results.ipynb` *(optional)* – For Power BI exports
+- `04_visualize_results.ipynb` – For Power BI exports
 
 ---
 
