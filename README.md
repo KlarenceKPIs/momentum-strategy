@@ -19,7 +19,6 @@ This project implements a **momentum investing strategy** using historical stock
 
 All files are located inside the `momentum-strategy/` folder:
 
-```text
 momentum-strategy/
 ├── data/             → Price data & momentum scores (.pkl files)
 ├── notebooks/        → Google Colab notebooks (step-by-step)
